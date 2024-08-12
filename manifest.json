@@ -1,0 +1,22 @@
+{
+   "action": {
+      "default_title": "__MSG_extensionName__"
+   },
+   "background": {
+      "service_worker": "scripts/service-worker.js"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionSummary__",
+   "icons": {
+      "128": "./static/icons/icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlE5PZwvF+Oe4el6+j8OMsUWduu1cWXZoJeaafkMJob/SWG1TsCn/cUOdHCZtmRqr1PwkraiJkt91AL3N/gVM8Y2XQ7e+NKai0VNBpFhh2YtgPlxaV0OBREiIdS/k+3MUJKO1+7fGSAGJi/aT34K2ATm8qTsR9LLdDmmE/kNQVLtMyUerQ2XTdC4OiF36LDI84YEpb+e6/kkCnyh78BngU+JntSd6nWfEefJNNchgtW3seLgFU2OuVLQo1GPSok02HVScvR5v891OV6YIQQ4vgHmL5UgQLFQcyjhkkGPYBfIOQkaG6z3tUAqyTFIGPdLBEWg7A/BejNjPX0pTqYmDVwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extensionName__",
+   "optional_host_permissions": [ "https://suggestion.baidu.com/*", "https://google.com/*" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.0.0"
+}

@@ -1,0 +1,191 @@
+{
+   "extensionName": {
+      "message": "One Piece Wallpaper HD HomePage"
+   },
+   "extensionSummary": {
+      "message": "One Piece Theme HomePage is a user-friendly browser extension that offers a wide range of HD wallpapers."
+   },
+   "modal_close": {
+      "message": "Close"
+   },
+   "no_content": {
+      "message": "No matching results"
+   },
+   "search_placeholder": {
+      "message": "Search"
+   },
+   "search_right_asked": {
+      "message": "Grant the following host permissions to use search suggestions:"
+   },
+   "settings_config_autoHideAfter_label": {
+      "message": "Delay Time"
+   },
+   "settings_config_autoHideAfter_options_10min": {
+      "message": "10 minutes"
+   },
+   "settings_config_autoHideAfter_options_1min": {
+      "message": "1 minute"
+   },
+   "settings_config_autoHideAfter_options_5min": {
+      "message": "5 minutes"
+   },
+   "settings_config_clockFormat_label": {
+      "message": "Time Format"
+   },
+   "settings_config_clockFormat_options_12h": {
+      "message": "12h"
+   },
+   "settings_config_clockFormat_options_24h": {
+      "message": "24h"
+   },
+   "settings_config_searchEngine_label": {
+      "message": "Search Engine"
+   },
+   "settings_config_searchEngine_options_baidu": {
+      "message": "Baidu"
+   },
+   "settings_config_searchEngine_options_bing": {
+      "message": "Bing"
+   },
+   "settings_config_searchEngine_options_google": {
+      "message": "Google"
+   },
+   "settings_config_searchOpenNewTab_label": {
+      "message": "Open with"
+   },
+   "settings_config_searchOpenNewTab_options_current": {
+      "message": "Current Tab"
+   },
+   "settings_config_searchOpenNewTab_options_new": {
+      "message": "New Tab"
+   },
+   "settings_config_searchRight_label": {
+      "message": "Search Suggestions"
+   },
+   "settings_config_searchRight_options_allow": {
+      "message": "Allow"
+   },
+   "settings_config_searchRight_options_deny": {
+      "message": "Deny"
+   },
+   "settings_config_wallpaperChangeBy_label": {
+      "message": "Order of Switch Wallpaper"
+   },
+   "settings_config_wallpaperChangeBy_options_order": {
+      "message": "Orderly"
+   },
+   "settings_config_wallpaperChangeBy_options_random": {
+      "message": "Shuffle"
+   },
+   "settings_config_wallpaperChangeFrequency_label": {
+      "message": "Change Frequency"
+   },
+   "settings_config_wallpaperChangeFrequency_options_10s": {
+      "message": "Every Ten Seconds"
+   },
+   "settings_config_wallpaperChangeFrequency_options_1d": {
+      "message": "Every Day"
+   },
+   "settings_config_wallpaperChangeFrequency_options_1h": {
+      "message": "Every Hour"
+   },
+   "settings_config_wallpaperChangeFrequency_options_reopen": {
+      "message": "Every Time Reopen"
+   },
+   "settings_config_weatherUnit_label": {
+      "message": "Temperature Unit"
+   },
+   "settings_config_weatherUnit_options_c": {
+      "message": "Centigrade"
+   },
+   "settings_config_weatherUnit_options_f": {
+      "message": "Fahrenheit"
+   },
+   "settings_groups_about_feedback": {
+      "message": "Feedback"
+   },
+   "settings_groups_about_policy": {
+      "message": "Privacy Policy"
+   },
+   "settings_groups_about_terms": {
+      "message": "Terms of Use"
+   },
+   "settings_groups_about_title": {
+      "message": "About Us"
+   },
+   "settings_groups_clockVisible_title": {
+      "message": "Clock"
+   },
+   "settings_groups_hideable_title": {
+      "message": "Auto Hide"
+   },
+   "settings_groups_search_title": {
+      "message": "Search Bar"
+   },
+   "settings_groups_share_title": {
+      "message": "Share"
+   },
+   "settings_groups_wallpaperChangeable_title": {
+      "message": "Automatically Switch Wallpaper"
+   },
+   "settings_groups_wallpaperOrderBy_title": {
+      "message": "Change Wallpaper Order"
+   },
+   "settings_groups_weatherVisible_title": {
+      "message": "Weather"
+   },
+   "settings_title": {
+      "message": "Settings"
+   },
+   "wallpaper_download": {
+      "message": "download wallpaper"
+   },
+   "wallpaper_mural": {
+      "message": "mural wallpaper"
+   },
+   "wallpaper_unmural": {
+      "message": "unmural wallpaper"
+   },
+   "weather_city_search_placeholder": {
+      "message": "City/Region"
+   },
+   "weather_loading": {
+      "message": "Loading_"
+   },
+   "widgets_note_placeholder": {
+      "message": "Write something..."
+   },
+   "widgets_note_title": {
+      "message": "Notes"
+   },
+   "widgets_note_untitled": {
+      "message": "Untitled"
+   },
+   "widgets_todo_clear": {
+      "message": "Clear Done"
+   },
+   "widgets_todo_doing": {
+      "message": "Doing"
+   },
+   "widgets_todo_done": {
+      "message": "Done"
+   },
+   "widgets_todo_placeholder": {
+      "message": "What do you want to do today?"
+   },
+   "widgets_todo_title": {
+      "message": "To-Do List"
+   },
+   "widgets_wallpaper_current": {
+      "message": "Current"
+   },
+   "widgets_wallpaper_dislike": {
+      "message": "Unfavorite"
+   },
+   "widgets_wallpaper_empty": {
+      "message": "Empty"
+   },
+   "widgets_wallpaper_title": {
+      "message": "Gallery"
+   }
+}

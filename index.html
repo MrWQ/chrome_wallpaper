@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- <link rel="icon" href="/favicon.ico" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      html, body{
+        font-family: PingFang SC,Microsoft Yahei,Helvetica,Arial,sans-serif !important;
+      }
+      body {
+        color: white;
+        margin: 0;
+        overflow: hidden;
+      }
+      ::-webkit-scrollbar {
+        background-color: initial;
+        width: 4px;
+        margin: 5px;
+      }
+      ::-webkit-scrollbar-thumb {
+        border-radius: 2px;
+        background-color: #e8e8e8 !important;
+      }
+      ::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb:hover {
+        border-radius: 1.5px;
+        background: #e8e8e8;
+      }
+
+      #wallpaper-puppet{ width: 100vw; height: 100vh; position: fixed; z-index: -1; }
+      #wallpaper-puppet img { -o-object-fit: cover; object-fit: cover; width: 100%; height: 100%; }
+
+      
+
+      #setting-trigger-puppet:hover{ transform: scale(1.2); }
+      .mask{
+        position: fixed; top:0;right: 0; z-index: 100;
+        width: 100vw; height: 100vh;
+        background-color: rgba(0,0,0,.1);pointer-events: none;
+      }
+      .cover{
+        position: fixed; top:0;right: 0; z-index: 999999;
+        width: 100vw; height: 100vh;
+        background-color: rgb(255, 255, 255);
+        pointer-events: none;
+        opacity: 1;
+      }
+      .cover-fadein{
+        animation: cover-fadeIn 1s forwards;
+      }
+      @keyframes cover-fadeIn { 0%{opacity: 1;} 100%{opacity: 0;} }
+
+      @media (prefers-color-scheme: dark) {
+        .cover{
+          background-color: rgba(53,54,58,1);
+        }
+        @keyframes fadeIn { 0%{background-color: rgba(53,54,58,1);}100%{background-color: rgba(0,0,0,.1);} }
+      }
+    </style>
+    <link rel="preload" href="./lib/localforage.js" as="script" />
+    <link rel="preload" href="./scripts/helper.js" as="script" />
+    <link rel="preload" href="./scripts/config.js" as="script" />
+    <link rel="preload" href="./scripts/storage.js" as="script" />
+    <link rel="preload" href="./scripts/wallpaper.js" as="script" />
+    <title>New Tab</title>
+
+    <script type="module" crossorigin src="/assets/index.fb2db97b.js"></script>
+  </head>
+  <body>
+    <div class="cover"></div>
+    <div class="mask"></div>
+    <div id="app"></div>
+    
+    <div class="w-screen h-screen" id="wallpaper-puppet"></div>
+    
+    <div id="setting-trigger-puppet"
+    ></div>
+    <script defer src="./lib/localforage.js"></script>
+    <script defer src="./scripts/helper.js"></script>
+    <script defer src="./scripts/config.js"></script>
+    <script defer src="./scripts/storage.js"></script>
+    <script defer src="./scripts/wallpaper.js"></script>
+    
+  </body>
+</html>

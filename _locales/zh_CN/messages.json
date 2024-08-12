@@ -1,0 +1,188 @@
+{
+   "extensionName": {
+      "message": "海贼王主题壁纸HD标签页"
+   },
+   "extensionSummary": {
+      "message": "海贼王主题标签页是一款易用的浏览器插件，提供了大量高清4K壁纸，支持每日更换壁纸并且没广告"
+   },
+   "modal_close": {
+      "message": "关闭"
+   },
+   "no_content": {
+      "message": "没找到任何内容"
+   },
+   "search_placeholder": {
+      "message": "搜索"
+   },
+   "search_right_asked": {
+      "message": "允许以下主机权限以使用搜索建议："
+   },
+   "settings_config_autoHideAfter_label": {
+      "message": "延迟时间"
+   },
+   "settings_config_autoHideAfter_options_10min": {
+      "message": "10分钟"
+   },
+   "settings_config_autoHideAfter_options_1min": {
+      "message": "1分钟"
+   },
+   "settings_config_autoHideAfter_options_5min": {
+      "message": "5分钟"
+   },
+   "settings_config_clockFormat_label": {
+      "message": "时间格式"
+   },
+   "settings_config_clockFormat_options_12h": {
+      "message": "12小时"
+   },
+   "settings_config_clockFormat_options_24h": {
+      "message": "24小时"
+   },
+   "settings_config_searchEngine_label": {
+      "message": "搜索引擎"
+   },
+   "settings_config_searchEngine_options_baidu": {
+      "message": "百度"
+   },
+   "settings_config_searchEngine_options_bing": {
+      "message": "必应"
+   },
+   "settings_config_searchEngine_options_google": {
+      "message": "谷歌"
+   },
+   "settings_config_searchOpenNewTab_label": {
+      "message": "打开方式"
+   },
+   "settings_config_searchOpenNewTab_options_current": {
+      "message": "当前页"
+   },
+   "settings_config_searchOpenNewTab_options_new": {
+      "message": "新标签页"
+   },
+   "settings_config_searchRight_label": {
+      "message": "搜索建议"
+   },
+   "settings_config_searchRight_options_allow": {
+      "message": "同意"
+   },
+   "settings_config_searchRight_options_deny": {
+      "message": "拒绝"
+   },
+   "settings_config_wallpaperChangeBy_label": {
+      "message": "切换壁纸顺序"
+   },
+   "settings_config_wallpaperChangeBy_options_order": {
+      "message": "依次"
+   },
+   "settings_config_wallpaperChangeBy_options_random": {
+      "message": "随机"
+   },
+   "settings_config_wallpaperChangeFrequency_label": {
+      "message": "更新壁纸频率"
+   },
+   "settings_config_wallpaperChangeFrequency_options_1d": {
+      "message": "每天"
+   },
+   "settings_config_wallpaperChangeFrequency_options_1h": {
+      "message": "每小时"
+   },
+   "settings_config_wallpaperChangeFrequency_options_reopen": {
+      "message": "每次打开"
+   },
+   "settings_config_weatherUnit_label": {
+      "message": "温度单位"
+   },
+   "settings_config_weatherUnit_options_c": {
+      "message": "摄氏度"
+   },
+   "settings_config_weatherUnit_options_f": {
+      "message": "华氏度"
+   },
+   "settings_groups_about_feedback": {
+      "message": "意见反馈"
+   },
+   "settings_groups_about_policy": {
+      "message": "隐私政策"
+   },
+   "settings_groups_about_terms": {
+      "message": "使用条款"
+   },
+   "settings_groups_about_title": {
+      "message": "关于我们"
+   },
+   "settings_groups_clockVisible_title": {
+      "message": "时钟"
+   },
+   "settings_groups_hideable_title": {
+      "message": "自动隐藏"
+   },
+   "settings_groups_search_title": {
+      "message": "搜索框"
+   },
+   "settings_groups_share_title": {
+      "message": "分享"
+   },
+   "settings_groups_wallpaperChangeable_title": {
+      "message": "自动切换壁纸"
+   },
+   "settings_groups_wallpaperOrderBy_title": {
+      "message": "切换壁纸顺序"
+   },
+   "settings_groups_weatherVisible_title": {
+      "message": "天气"
+   },
+   "settings_title": {
+      "message": "设置"
+   },
+   "wallpaper_download": {
+      "message": "下载壁纸"
+   },
+   "wallpaper_mural": {
+      "message": "钉住壁纸"
+   },
+   "wallpaper_unmural": {
+      "message": "取消钉住壁纸"
+   },
+   "weather_city_search_placeholder": {
+      "message": "请输入城市名"
+   },
+   "weather_loading": {
+      "message": "天气加载中..."
+   },
+   "widgets_note_placeholder": {
+      "message": "写点什么吧..."
+   },
+   "widgets_note_title": {
+      "message": "笔记"
+   },
+   "widgets_note_untitled": {
+      "message": "无标题"
+   },
+   "widgets_todo_clear": {
+      "message": "清除已完成"
+   },
+   "widgets_todo_doing": {
+      "message": "处理中"
+   },
+   "widgets_todo_done": {
+      "message": "处理完成"
+   },
+   "widgets_todo_placeholder": {
+      "message": "今天要做点什么？"
+   },
+   "widgets_todo_title": {
+      "message": "待办事项"
+   },
+   "widgets_wallpaper_current": {
+      "message": "当前"
+   },
+   "widgets_wallpaper_dislike": {
+      "message": "不喜欢"
+   },
+   "widgets_wallpaper_empty": {
+      "message": "无"
+   },
+   "widgets_wallpaper_title": {
+      "message": "图库"
+   }
+}
